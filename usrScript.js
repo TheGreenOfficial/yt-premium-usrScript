@@ -270,7 +270,7 @@ show("msg: usrScript working... | Dev: </>TheGreen");
             'width': '50px', // Reduced width
             'height': "50px", // Reduced height
             'borderRadius': "50%",
-            'backgroundImage': 'url(https://yt3.googleusercontent.com/HeHpSfy-YqIzdCl8qxgMh3wwt2BUfebsOjmvxlYtwI-q8S1xTAnHnyPYCJQNmE1YrgRYfd1M8Q=s160-c-k-c0x00ffffff-no-rj)',
+            'backgroundImage': 'url(https://yt3.ggpht.com/JxYa_OFnEjU1DRimYqOau_nnhSw6zY_jJoAZ68X6GO3lWjfd5VasbRXRiYTt9ZuDQ5FU3K7GpA=s600-c-k-c0x00ffffff-no-rj-rp-mo)',
             'backgroundRepeat': "no-repeat",
             'backgroundPosition': 'center',
             'backgroundSize': "cover",
